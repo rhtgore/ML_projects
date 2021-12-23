@@ -1,0 +1,12 @@
+Movielens Dataset Analysis
+
+The GroupLens Research Project is a research group in the Department of Computer Science and Engineering in the University of Minnesota. 
+The researchers of this group are involved in many research projects related to the fields of information filtering, collaborative filtering, and recommender systems. 
+
+The scope of the movielens Dataset anaysis project:
+1. Data acquisition of the movielens dataset: users dataset, rating dataset, movies dataset
+2. Perform EDA for users, rating, movies datasets
+    - Visualize user age distribution
+    - Visualize overall rating by users
+    - Visualize most rated movies with no. of atleast users rated filter
+    - Visualize Occupation rated movies
